@@ -1,0 +1,13 @@
+html, body {
+    height: 100%;
+}
+body {
+    margin: 0;
+    height: 100vh;
+    background: #FFFFFF;
+    background-image: linear-gradient(180deg,rgba(255, 255, 255, 1) 0%, rgba(206, 254, 159, 1) 10%, rgba(142, 148, 218, 1) 50%, rgba(77, 183, 174, 1) 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow-x: hidden;
+}

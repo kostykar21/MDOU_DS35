@@ -1,0 +1,20 @@
+.home_btn {
+    margin-left: 148px;
+    width: 275px;
+    height: 54px;
+    border: 1px black solid;
+    background-color: #86B989;
+    border-radius: 13px;
+    box-shadow: -6px -8px 10px #00000030 inset;
+    @media (max-width: 670px) {
+        margin-left: 88px;
+    }
+    @media (max-width: 470px) {
+        margin-left: 38px;
+        
+    }
+}
+.home_link_btn {
+    color: black;
+    font-size: 24px;
+}

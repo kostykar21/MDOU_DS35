@@ -1,0 +1,212 @@
+.home {
+    height: 405px;
+    width: 1280px;
+    margin: 0 auto;
+    @media (max-width: 1250px) {
+        width: 1050px;
+    }
+    @media (max-width: 1050px) {
+        width: 850px;
+    }
+    @media (max-width: 870px) {
+        width: 650px;
+    }
+    @media (max-width: 670px) {
+        width: 450px;
+    }
+    @media (max-width: 470px) {
+        width: 350px;
+    }
+}
+.home_conteiner {
+    background-image: url(/img/360_F_506258706_Xgux815yTwoDz6BGmbIPhWnQvtuBBW6M.jpg);
+    background-size: cover;
+    
+}
+.main_box {
+    margin: 0 auto;
+    align-items: center;
+}
+.home_text {
+    font-size: 24px;
+    padding: 47px 0px 116px 148px;
+    font-family: 'Inter_regular';
+    @media (max-width: 1250px) {
+        font-size: 20px;
+        padding: 47px 0px 116px 78px;
+    }
+    @media (max-width: 870px) {
+        font-size: 18px;
+        padding: 47px 0px 116px 0px;
+        text-align: center;
+        align-items: center;
+    }
+    
+}
+.lending_conteiner {
+    width: 1280px;
+    margin: 0 auto;
+    @media (max-width: 1250px) {
+        width: 1050px;
+    }
+    @media (max-width: 1050px) {
+        width: 850px;
+    }
+    @media (max-width: 870px) {
+        width: 650px;
+    }
+    @media (max-width: 670px) {
+        width: 450px;
+    }
+    @media (max-width: 470px) {
+        width: 350px;
+    }
+}
+.lending_box {
+    width: 1192px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #D6FFCC;
+    border-radius: 48px;
+    line-height: 1.2;
+    margin-bottom: 30px;
+    @media (max-width: 1250px) {
+        width: 1050px;
+    }
+    @media (max-width: 1050px) {
+        width: 850px;
+    }
+    @media (max-width: 870px) {
+        width: 650px;
+    }
+    @media (max-width: 670px) {
+        width: 450px;
+    }
+    @media (max-width: 470px) {
+        width: 350px;
+    }
+}
+.lending_title {
+    font-size: 24px;
+    font-family: 'Inter_bold';
+    @media (max-width: 1250px) {
+        font-size: 22px;
+    }
+    @media (max-width: 1050px) {
+        font-size: 20px;
+    }
+    
+}
+.lending_text {
+    font-size: 22px;
+    font-family: 'Inter_regular';
+    @media (max-width: 1250px) {
+        font-size: 20px;
+    }
+    @media (max-width: 1050px) {
+        font-size: 18px;
+    }
+    @media (max-width: 800px) {
+        font-size: 16px;
+    }
+}
+.last_lending_text {
+    margin-bottom: 30px;
+}
+.map_link {
+    padding: 0px 35px;
+    margin-bottom: 66px;
+}
+.map_box {
+    width: 1280px;
+    margin: 0 auto;
+    @media (max-width: 1250px) {
+        width: 1050px;
+    }
+    @media (max-width: 1050px) {
+        width: 850px;
+    }
+    @media (max-width: 870px) {
+        width: 650px;
+    }
+    @media (max-width: 670px) {
+        width: 450px;
+    }
+    @media (max-width: 470px) {
+        width: 350px;
+    }
+}
+.map_title {
+    padding: 37px 0px;
+    padding-left: 35px;
+    font-size: 32px;
+    font-family: 'Inter_regular';
+}
+.footer_text {
+    color: black;
+    font-size: 32px;
+    font-family: 'Inter_regular';
+    justify-content: center;
+    display: flex;
+    @media (max-width: 870px) {
+        font-size: 24px;
+}
+ @media (max-width: 550px) {
+        font-size: 18px;
+}
+}
+.footer {
+    background: linear-gradient(90deg,rgba(202, 241, 255, 1) 0%, rgba(0, 187, 255, 1) 100%);
+    height: 283px;
+    @media (max-width: 870px) {
+        
+        height: 233px;
+    }
+    @media (max-width: 670px) {
+        
+        height: 213px;
+    }
+}
+.footer_box {
+    width: 1280px;
+    
+    margin: 0 auto;
+    @media (max-width: 1250px) {
+        width: 1050px;
+    }
+    @media (max-width: 1050px) {
+        width: 850px;
+    }
+    @media (max-width: 870px) {
+        width: 650px;
+        height: 233px;
+    }
+    @media (max-width: 670px) {
+        width: 450px;
+        height: 103px;
+    }
+    @media (max-width: 470px) {
+        width: 350px;
+    }
+}
+.footer_copyright {
+    font-size: 24px;
+    font-family: 'Inter_regular';
+    justify-content: center;
+    display: flex;
+    @media (max-width: 870px) {
+        font-size: 20px;
+}
+ @media (max-width: 550px) {
+        font-size: 16px;
+}
+}
+.footer_text_1 {
+    padding: 30px 0px 10px 0px;
+}
+.footer_text_2 {
+    padding-bottom: 10px;
+}
+.footer_copyright {
+    padding-top: 56px;
+}
