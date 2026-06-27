@@ -19,8 +19,9 @@
     }
 }
 .home_conteiner {
-    background-image: url(img/360_F_506258706_Xgux815yTwoDz6BGmbIPhWnQvtuBBW6M.jpg);
-    background-size: cover;
+    background-image: url(360_F_506258706_Xgux815yTwoDz6BGmbIPhWnQvtuBBW6M.jpg);
+    background-repeat: repeat-x;
+    background-size: auto 405px;
 
 }
 .main_box {
